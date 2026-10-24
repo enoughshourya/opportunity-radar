@@ -9,4 +9,4 @@ Opportunity Radar helps students discover scholarships, internships, hackathons,
 1. Open ASI:One.
 2. Search for `@opportunity-radar`.
 3. Ask for eligibility or prep roadmap for hackathons/scholarships.
-4.
+  
