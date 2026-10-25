@@ -1,4 +1,8 @@
 # Opportunity Radar - AI Agent
+### 📹 Demo Video
+Watch the working demonstration of Opportunity Radar on YouTube:
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/A91TkaAfYIQ?si=1FVtgnVdwFEoTP8N)
+
 
 An autonomous AI Agent built using Fetch.ai's `uagents` framework and deployed on the ASI:One ecosystem for Fetch-A-Thon 3.0.
 
